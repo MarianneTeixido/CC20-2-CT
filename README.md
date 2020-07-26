@@ -9,6 +9,10 @@
 Objetivo. Aplicar los conocimientos de programación a un entorno web y multimedia, para el desarrollo de productos
 digitales audiovisuales.
 
-Este curso es una introducción a los procesos algorítmicos que utilizan video como recurso para la conceptualización y realización de procesamiento de imágenes en movimiento. 
+Este curso es una introducción a los procesos algorítmicos que conceptualizan y ejecutan el procesamiento de imágenes en movimiento y sonido. 
+
+
+[![N|Solid](https://media.giphy.com/media/26hit3HHINzEUvdNC/source.gif)](https://nodesource.com/products/nsolid)
+
 
 
