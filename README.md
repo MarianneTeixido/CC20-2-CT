@@ -12,7 +12,7 @@ digitales audiovisuales.
 Este curso es una introducción a los procesos algorítmicos que conceptualizan y ejecutan el procesamiento de imágenes en movimiento y sonido. 
 
 
-[![N|Solid](https://media.giphy.com/media/26hit3HHINzEUvdNC/source.gif)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://media.giphy.com/media/26hit3HHINzEUvdNC/source.gif)](https://media.giphy.com/media/26hit3HHINzEUvdNC/source.gif)
 
 
 
