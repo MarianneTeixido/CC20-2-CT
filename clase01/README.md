@@ -1,6 +1,7 @@
 
 # Clase 1 | Internet y desarrollo web (Repaso)
 
+## ¿Cómo funciona internet?
 
 ![portada2](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/internet.png)
 
@@ -15,6 +16,30 @@ Por ejemplo, el TCP tiene la regla de que si una computadora manda datos a otra 
 Antecedentes: El intenet comenzó con ARPANET en los 60 con el objetivo de tener una red de computadoras descentralizada. 
 
 Para optener la IP de un dispositivo, se tendría que saber la dirección del servidor que provee los servicios de Internet. 
+
+## Aplicaciones cliente - sevidor 
+
+![server-client](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/cliente-servidor.png)
+
+El servidor es un ordenador en donde se ejecuta un programa que realiza tareas que benefician a los dispositivos cliente. Los servidores realizan procesamientos que gestionan el tráfico en la red a los clientes como el acceso a internet, correo electrónico entre otros. 
+
+Otros tipos de arquitectura, [ventajas y desventajas de las aplicaciones cliente servidor](https://es.wikipedia.org/wiki/Cliente-servidor). 
+
+DigitalOcean. 
+
+
+## Introducción a HTML
+
+
+
+
+### Modelos DOM y CSS
+
+## JavaScript 
+
+## Distribución de la imagen en movimiento 
+
+
 
 
 
