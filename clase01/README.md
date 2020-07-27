@@ -45,6 +45,7 @@ En el DOM los documentos tienen una estructura parecida a un arbol, creando una 
 Por ejemplo si tenemos una página web sencilla:
 
 ```html
+<!DOCTYPE html>
 <html>
 <head>
   <title>Mi página</title>
@@ -56,11 +57,30 @@ Por ejemplo si tenemos una página web sencilla:
 </html>
 ```
 
+Prueba pegando ese código en este editor dando click [aquí](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
 
+![dom-arbol](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/dom.gif)
 
+Cada recuadro es un nodo, los nodos son la estructura más básica de una DOM. Estos nodos son jerárquicos y están interrelacionados. DOM define 
 
-En su forma más básica HTML es el nivel más básico de programación web. 
+- Elementos como objetos en HTML
+- Propiedades de todos los elementos HTML
+- Métodos para acceder a todos los elementos del HTML
+- Eventos para todos los elementos HTML  
 
+En su forma más básica HTML es el nivel más básico de programación web. El navegador que usamos para ver el sitio web es un programa que interpreta HTML y CSS y representa el estilo, el contenido y la estructura en la página web. 
+
+DOM permite que JavaScript acceda al contenido de texto y elementos del documento del sitio web como objetos. 
+
+[Ejercicio] (https://www.vice.com/es_latam): Modificar el atributo de algun objeto DOM, como texto.
+
+![dom2-arbol](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/dom2.gif)
+
+Ejercicio 2: Abrir el navehador de google y cambiar el estilo de color.
+escribir en la consola 
+```html
+document.body.style.backgroundColor = 'fuchsia';
+```
 ## JavaScript 
 
 ## Distribución de la imagen en movimiento 
