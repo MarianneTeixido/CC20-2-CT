@@ -30,10 +30,15 @@ DigitalOcean.
 
 ## Introducción a HTML
 
+![html](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/html.png)
 
-
+[Lenguaje de Marcado de Hipertextos](https://developer.mozilla.org/es/docs/Web/HTML) (_HyperText Markup Languaje_), es el elemento más básico para la construcción de la web. Se usa para dar sentido y estructura del contenido a la página web. Otras tecnologías, además del HTML, que son usadas para describir la apariencia de una página web son CSS y JavaScript. 
 
 ### Modelos DOM y CSS
+
+Los modelos [DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom) (_Document Object Model_) es una parte escencial para la interactividad en la web. Es una interfaz que permite al lenguaje de programación manipular el contenido, estructura y el estilo de la página web.  
+
+what is dom and ccs
 
 ## JavaScript 
 
