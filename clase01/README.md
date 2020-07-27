@@ -90,6 +90,8 @@ El código JavaScript que escribimos, asignando fucsia al color de fondo del cue
 
 ## JavaScript 
 
+![js](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/js.png)
+
 Javascript es una forma de complementar una página web, mediante aplicaciones dinámicas. Las páginas Web que podemos hacer usando sólo los lenguajes HTML y CSS son páginas estáticas; es decir, podemos poner texto, imágenes, colores, etc. pero el usuario lo único que puede hacer es verlas, leerlas, ir a otra página con los enlaces, o como mucho rellenar un formulario.
 
 Con javascript cambia el concepto de la página. Podemos hacer la página más interactiva, de forma que tanto el programador como el usuario puedan realizar más acciones dentro de la página.
