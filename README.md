@@ -34,11 +34,11 @@ La evaluación se realizará al final de las 8 sesiones con la presentación de 
 
 ## Referencias de proyectos
 
-[http://mirka.nl/bram-loogmans-pabl-nunez-palmas-jan-bot-has-been-released/](http://mirka.nl/bram-loogmans-pabl-nunez-palmas-jan-bot-has-been-released/)
-[http://www.deriva.mx/](http://www.deriva.mx/)
-Breaking the Ice de Larry Malone 1987
-[https://www.designboom.com/technology/radioheads-house-of-cards-video-by-james-frost/](https://www.designboom.com/technology/radioheads-house-of-cards-video-by-james-frost/)
-[https://novel.af/project/gravity](https://novel.af/project/gravity)
+- [http://mirka.nl/bram-loogmans-pabl-nunez-palmas-jan-bot-has-been-released/](http://mirka.nl/bram-loogmans-pabl-nunez-palmas-jan-bot-has-been-released/)
+- [http://www.deriva.mx/](http://www.deriva.mx/)
+- Breaking the Ice de Larry Malone 1987
+- [https://www.designboom.com/technology/radioheads-house-of-cards-video-by-james-frost/](https://www.designboom.com/technology/radioheads-house-of-cards-video-by-james-frost/)
+- [https://novel.af/project/gravity](https://novel.af/project/gravity)
 
 
 ## Bibliografia
