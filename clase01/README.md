@@ -70,11 +70,11 @@ Cada recuadro es un nodo, los nodos son la estructura más básica de una DOM. E
 
 En su forma más básica HTML es el nivel más básico de programación web. El navegador que usamos para ver el sitio web es un programa que interpreta HTML y CSS y representa el estilo, el contenido y la estructura en la página web. 
 
-CSS (_Cascading Style Sheets_ o Hojas de estilo en cascada) es un código complementa el HTML y permite configurar características visuales como forma color y posición en una página. 
+CSS (_Cascading Style Sheets_ o Hojas de estilo en cascada) es un código complementa el HTML y permite configurar características visuales como forma, color y posición en una página. 
 
 DOM de CSS permite que JavaScript acceda al contenido de texto y elementos del documento del sitio web como objetos. 
 
-[Ejercicio] (https://www.vice.com/es_latam): Modificar el atributo de algun objeto DOM, como texto.
+[Ejercicio](https://www.vice.com/es_latam): Modificar el atributo de algun objeto DOM, como texto.
 
 ![dom2-arbol](https://github.com/MarianneTeixido/CC20-2-CT/blob/master/img/dom2.gif)
 
