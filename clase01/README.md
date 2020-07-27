@@ -36,9 +36,30 @@ DigitalOcean.
 
 ### Modelos DOM y CSS
 
-Los modelos [DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom) (_Document Object Model_) es una parte escencial para la interactividad en la web. Es una interfaz que permite al lenguaje de programación manipular el contenido, estructura y el estilo de la página web.  
+Los modelos [DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom) (_Document Object Model_ o Modelo de Objetos de Documento) es una parte escencial para la interactividad en la web. Es una interfaz que permite al lenguaje de programación manipular el contenido, estructura y el estilo de la página web.  
 
-what is dom and ccs
+Con el Modelo de Objetos del Documento los programadores pueden construir documentos, navegar por su estructura, y añadir, modificar o eliminar elementos y contenido". Es decir que tiene una escructura flexible en la cual se pueden añadir o quitar elementos  
+
+En el DOM los documentos tienen una estructura parecida a un arbol, creando una estructura jerarquica en la que de un objeto principal pueden depender varios secundarios. Esto se ve claramente en la escructura que tiene la página de HTML, la cual consta de etiquetas anidadas.
+
+Por ejemplo si tenemos una página web sencilla:
+
+```html
+<html>
+<head>
+  <title>Mi página</title>
+</head>
+<body>
+  <h1>Hola mundo</h1>
+	<p>Esta es mi página.</p>
+</body>
+</html>
+```
+
+
+
+
+En su forma más básica HTML es el nivel más básico de programación web. 
 
 ## JavaScript 
 
