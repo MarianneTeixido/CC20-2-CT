@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript y P5
 
 ## Diferencias entre Processing y P5js
 
@@ -7,7 +7,7 @@ En lo general Processing y P5 son muy parecidos. Pero tienen diferencias que es 
 
 ### Funciones 
 
-El bloque de código que antes se llamaba _void_ setup() y _void_ draw() ahora se llama _function_ setup() y _function_ draw(), los cuales se comportan exactamente igual que void. Como ahora estamos usando algunas librerías de JavaScript y esos bloques de código heredan la sintaxis de este lenguaje. 
+El bloque de código que antes se llamaba _void_ setup() y _void_ draw() ahora se llama _function_ setup() y _function_ draw(), los cuales se comportan exactamente igual que void. Como ahora estamos usando algunas librerías de JavaScript esos bloques de código heredan la sintaxis de este lenguaje. 
 
 ### Display 
 
@@ -108,6 +108,38 @@ function draw() {                         // **cambió** void draw() a function 
   }
 }
 ```
+
+### Declarar variables
+
+En p5 todas las variables (no importa si son número, strings, arrays, funciones, objetos o lo que sea) son declaradas usandoo el símbolo var (o en nuevas versiones de navegadores, let or const). A diferencia de Processing, no tenemos que especificar el tipo de variable. 
+
+Por ejemplo, si tenemos: 
+
+```java
+boolean boton = false;
+```
+nosotros debemos de escribir
+
+```javascript
+var boton = false;
+```
+o en lugar de: 
+
+```java 
+float x = 100.3;
+```
+nosotros debemos de escribir 
+
+```javascript
+var x =  100.3;
+```
+
+
+### Ejercicio 1
+
+Adapatar un sketch de la documentación [Learning Processing de Daniel Shiffman](https://github.com/shiffman/LearningProcessing) y trasladarlos a p5.js en el [editor de P5](https://editor.p5js.org/).
+
+
 
 
 
