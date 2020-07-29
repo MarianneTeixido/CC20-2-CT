@@ -111,14 +111,14 @@ function draw() {                         // **cambió** void draw() a function 
 
 ### Declarar variables
 
-En p5 todas las variables (no importa si son número, strings, arrays, funciones, objetos o lo que sea) son declaradas usandoo el símbolo var (o en nuevas versiones de navegadores, let or const). A diferencia de Processing, no tenemos que especificar el tipo de variable. 
+En p5 todas las variables (no importa si son número, strings, arrays, funciones, objetos o lo que sea) son declaradas usando el símbolo var (o en nuevas versiones de navegadores, let or const). A diferencia de Processing, no tenemos que especificar el tipo de variable. 
 
 Por ejemplo, si tenemos: 
 
 ```java
 boolean boton = false;
 ```
-nosotros debemos de escribir
+nosotros debemos de escribir:
 
 ```javascript
 var boton = false;
@@ -128,7 +128,7 @@ o en lugar de:
 ```java 
 float x = 100.3;
 ```
-nosotros debemos de escribir 
+nosotros debemos de escribir:
 
 ```javascript
 var x =  100.3;
@@ -137,7 +137,7 @@ var x =  100.3;
 
 ### Ejercicio 1
 
-Adapatar un sketch de la documentación [Learning Processing de Daniel Shiffman](https://github.com/shiffman/LearningProcessing) y trasladarlos a p5.js en el [editor de P5](https://editor.p5js.org/).
+Adapatar un sketch de la documentación [Learning Processing de Daniel Shiffman](https://github.com/shiffman/LearningProcessing) a p5.js escribiéndolo en el [editor de P5](https://editor.p5js.org/).
 
 
 
