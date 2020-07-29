@@ -17,7 +17,9 @@ Metas de aprendizaje:
 
 ## Sesiones
 
-- [ ] [Clase 01. Internet y desarrollo web](https://github.com/MarianneTeixido/CC20-2-CT/tree/master/clase01/README.md)
+- [x] [Clase 01. Internet y desarrollo web](https://github.com/MarianneTeixido/CC20-2-CT/tree/master/clase01/README.md)
+
+- [ ] [Clase 02. JavaScript](https://github.com/MarianneTeixido/CC20-2-CT/tree/master/clase02/README.md)
 
 
 ## Evaluación 
